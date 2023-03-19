@@ -80,6 +80,10 @@ main {
     border-radius: 8px;
 }
 
+.exception {
+    color: #727272;
+}
+
 
 
 .second-button {
@@ -202,7 +206,7 @@ main {
 }
 
 span {
-    color: rgba(65, 35, 175, 0.925);
+    color: rgb(242, 163, 5);
 }
 
 .btn-myself {
