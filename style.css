@@ -259,11 +259,12 @@ footer {
     .photo-grid {
         width: 100%;
         grid-template-columns: repeat(1, 1fr);
+        row-gap: 0;
     }
 
     .photo-grid img {
-        width: 100%;
-        height: 100%;
+        width: 90%;
+        height: 90%;
     }
 
     .second-button {
@@ -296,7 +297,7 @@ footer {
         height: 80px;
         border-radius: 8px;
         font-weight: 700;
-        font-size: 12px;
+        font-size: 10px;
 
     }
 
